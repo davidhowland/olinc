@@ -7,4 +7,4 @@ title: "Happy Jekylling!"
 
 Start developing your Jekyll website?
 
-Add Skeleton
+Add Skeleton?
